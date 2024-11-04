@@ -1,12 +1,23 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center"><b> Hi, I'm Squeeze (IndexDev) </b>
 
-<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Passionate=About+Arogramming&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+About+Football..&hearts;++;Pocketmine+Developer,;Cybersecurity+Lover,;19+Years,;Active+Developer,;Mexican..<3,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<img src="https://github.com/user-attachments/assets/293a1e9b-4eee-4cd8-9372-ca7aceb51ebd" height="300">
 
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
   <a href="mailto:indexdev@inprotect.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="discord:discord.com/indexdev." target="_blue"><img height="28" src = "https://img.shields.io/badge/discord-c14438?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <div align="justify">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 </p>
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
@@ -30,7 +41,7 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">My Statistics 🔥 :</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -47,4 +58,4 @@
   </td>
 </tr>
 </table>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
