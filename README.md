@@ -1,3 +1,5 @@
+<h1 align="center"><b> Hi, I'm Squeeze (IndexDev) </b>
+
 <img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp">
 
 
@@ -15,22 +17,33 @@
 - 🌍​ Discord: indexdev.
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> My favorite programming languages
 
-<p>
-<img src="https://img.shields.io/badge/-PHP-191970?style=flat-square&logo=PHP" height="25"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript" height="25"> 
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python" height="25"> 
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
+</h2>                                                                                                                       
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,css,html,python,javascript,mongodb,linux,vscode&perline=14" />
+  </a>
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Indexa2&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Indexa2&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyvaris&theme=dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
 
-------
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Indexa2&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
