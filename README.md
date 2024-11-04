@@ -17,10 +17,10 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
 
 <p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-PHP-191970?style=flat-square&logo=PHP" height="25"> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-PYTHON-FFD700?style=flat-square&logo=PYTHON" height="25"> 
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
