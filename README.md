@@ -29,7 +29,7 @@
 - 🌍​ Discord: indexdev.
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> My favorite programming languages
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> My favorite programming languages and IDE
 
 </h2>                                                                                                                       
 
