@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Kotlin
 - 🤔 Learning more every day
 - 😄 Pronouns: He/His
-- 📫 How to reach me: inprotect@enterprise.mx
+- 📫 How to reach me: indexdev@inprotect.com
 - 🌍​ Discord: indexdev.
 <br></br>
 
