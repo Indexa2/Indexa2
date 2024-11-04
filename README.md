@@ -12,7 +12,7 @@
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
   <a href="mailto:indexdev@inprotect.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="discord:discord.com/indexdev." target="_blue"><img height="28" src = "https://img.shields.io/badge/discord-c14438?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="discord:discord.com/indexdev." target="_cyan"><img height="28" src = "https://img.shields.io/badge/discord-c14438?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <div align="justify">
   
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
