@@ -3,7 +3,7 @@
 <h1 align="center"><b> Hi, I'm Squeeze (IndexDev) </b>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Passionate=About+Arogramming&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+About+Football..&hearts;++;Pocketmine+Developer,;Cybersecurity+Lover,;19+Years,;Active+Developer,;Mexican..<3,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Passionate=About+Arogramming&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pocketmine+Developer,;Spigot,+Paper,+and+BungeeCord+Developer,;Cybersecurity+Lover,;PHP+and+Java+Developer,;Active+Developer,;Passionate+About+Football..&hearts;++,;19+Years,;Mexican..<3,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <img src="https://github.com/user-attachments/assets/293a1e9b-4eee-4cd8-9372-ca7aceb51ebd" height="300">
