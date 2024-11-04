@@ -18,6 +18,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=PHP" height="25"> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
