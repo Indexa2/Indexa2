@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/namecard.png">
+<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp">
 
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
