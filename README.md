@@ -41,6 +41,18 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
+<h3 align="center">Support:</h3>
+
+<p align="center">
+  <a href="https://www.paypal.me/inprotect" style="display: inline-block;">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+  </a>
+  
+  <a href="https://discord.gg/hTxx5WwS" style="display: inline-block; margin-left: 10px;">
+    <img align="center" src="https://github.com/Lyvaris/Lyvaris/blob/main/images/discord.png" height="70" width="210" alt="discord" />
+  </a>
+</p>
+
 <h3 align="center">My Statistics 🔥 :</h3>
 <p align="center">
 <table align="center">
