@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b> Hi, I'm Squeeze (IndexDev) </b>
+<h1 align="center"><b> Hi, 66Index (IndexDev) </b>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Passionate=About+Arogramming&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pocketmine+Developer,;Spigot,+Paper,+and+BungeeCord+Developer,;Cybersecurity+Lover,;PHP+and+Java+Developer,;Active+Developer,;Passionate+About+Football..&hearts;++,;19+Years,;Mexican..<3,;Love+to+learn+new+stuffs..<3"></a>
